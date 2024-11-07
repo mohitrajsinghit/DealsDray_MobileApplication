@@ -4,6 +4,8 @@ Here’s a `README.md` file that you can use as a starting point for your projec
 
 # DealsDray Flutter App
 
+Here is the video link to view about the project:- https://drive.google.com/file/d/1ghf3lOWhbtoPFGHZQR2z23Y6jB5Vbg3C/view?usp=drive_link
+
 This is a Flutter application developed for **DealsDray**, featuring user authentication, OTP verification, registration with referral, and product retrieval from a backend API. The project follows a modular architecture with a separation of concerns between business logic and UI components.
 
 ## Table of Contents
